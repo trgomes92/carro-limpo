@@ -3,7 +3,7 @@
 <a href="https://carrolimpo.alwaysdata.net/accounts/login/"><img src="https://i.ibb.co/ygxHVtM/DEMO2.png"></a>
 
 #### 🔹 <a href="https://carrolimpo.alwaysdata.net/admin">Painel Administrativo</a>  🔹  <a href="https://carrolimpo.alwaysdata.net/accounts/login/">Demo Online</a>
-🔹  <a href="http://carrolimpo.epizy.com/?i=1">Demo HTML/CSS</a>
+🔹  <a href="http://carrolimpo.epizy.com/?i=1">Demo HTML/CSS/JS</a>
 
 ##
 ###  🔷 **Login e Recuperação da Senha** 
